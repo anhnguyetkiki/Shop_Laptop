@@ -20,3 +20,46 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+# 🛒 Website Bán Laptop - Phong Vũ  
+
+## 📌 Giới thiệu  
+Website thương mại điện tử giúp cửa hàng Phong Vũ quản lý và bán laptop trực tuyến. Cung cấp chức năng mua sắm cho khách hàng và công cụ quản lý sản phẩm, đơn hàng cho quản trị viên.  
+
+## 🔗 Liên kết  
+- **📂 Repository**: [Shop_Laptop](https://github.com/anhnguyetkiki/Shop_Laptop)  
+- **🎥 Demo**: [Xem trên YouTube](https://youtu.be/3YGAJRVecsI)  
+
+## 🚀 Chức năng chính  
+
+### 👥 Đối với khách hàng  
+- ✅ Xem danh sách sản phẩm theo danh mục, giá cả.  
+- ✅ Xem chi tiết sản phẩm (mô tả, đánh giá, trạng thái hàng).  
+- ✅ Tìm kiếm, lọc sản phẩm theo giá, thương hiệu.  
+- ✅ Đăng ký, đăng nhập và quản lý tài khoản.  
+- ✅ Thêm sản phẩm vào giỏ hàng, so sánh, yêu thích.  
+- ✅ Đặt hàng, xem lịch sử đơn hàng.  
+- ✅ Nhận email xác nhận khi đặt hàng thành công.  
+
+### 🔑 Đối với quản trị viên  
+- ✅ Đăng nhập hệ thống quản lý.  
+- ✅ Quản lý danh sách sản phẩm (thêm, sửa, xóa).  
+- ✅ Quản lý danh mục sản phẩm, nhà sản xuất.  
+- ✅ Quản lý tài khoản khách hàng.  
+- ✅ Xử lý đơn hàng (kiểm tra, duyệt, in hóa đơn PDF).  
+- ✅ Quản lý mã giảm giá.  
+- ✅ Thống kê doanh thu theo ngày/tháng/năm.  
+
+## 🛠️ Công nghệ sử dụng  
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Backend**: PHP, MySQL  
+- **Frameworks/Libraries**: Bootstrap, jQuery  
+- **Công cụ hỗ trợ**: XAMPP, phpMyAdmin  
+
+## 📌 Cách cài đặt và chạy dự án  
+
+💻 **Yêu cầu:** XAMPP hoặc môi trường PHP + MySQL  
+
+### 1️⃣ Clone repository  
+```bash
+git clone https://github.com/anhnguyetkiki/Shop_Laptop.git
+cd Shop_Laptop
